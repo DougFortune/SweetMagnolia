@@ -1,0 +1,67 @@
+{
+  "name": "sweet-magnolia-gift-shop",
+  "version": "1.0.0",
+  "title": "Sweet Magnolia Gift Shop",
+  "description": "Moses Cone Hospital Sweet Magnolia Gift Shop",
+  "tags": [],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "plugins": [
+    {
+      "name": "cordova-plugin-ble",
+      "version": "1.4.2"
+    },
+    {
+      "name": "cordova-plugin-bluetooth-serial"
+    },
+    {
+      "name": "cordova-plugin-chrome-apps-sockets-tcp"
+    },
+    {
+      "name": "cordova-plugin-chrome-apps-sockets-tcpserver"
+    },
+    {
+      "name": "cordova-plugin-chrome-apps-sockets-udp"
+    },
+    {
+      "name": "cordova-plugin-dialogs"
+    },
+    {
+      "name": "cordova-plugin-geolocation"
+    },
+    {
+      "name": "cordova-plugin-globalization"
+    },
+    {
+      "name": "cordova-plugin-http",
+      "version": "v0.2.2"
+    },
+    {
+      "name": "cordova-plugin-ibeacon",
+      "version": "3.4.3"
+    },
+    {
+      "name": "cordova-plugin-inappbrowser"
+    },
+    {
+      "name": "cordova-plugin-vibration"
+    },
+    {
+      "name": "de.appplant.cordova.plugin.local-notification",
+      "version": "0.8.4"
+    }
+  ],
+  "index-file": "index.html",
+  "uuid": "0ca8dc5c-e5ac-4aa9-bd97-560e2940d153",
+  "icon": "app-icon.png",
+  "doc-url": "http://evothings.com/2.2/doc/examples/template-basic-app.html",
+  "long-description": "Moses Cone Hospital Sweet Magnolia Gift Shop",
+  "cordova-id": "com.SweetMagnolia.HospitalGiftShop",
+  "author-name": "Doug Fortune",
+  "author-email": "dougfortune12@gmail.com",
+  "author-url": "https://evothings.com"
+}
